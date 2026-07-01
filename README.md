@@ -1,13 +1,12 @@
-# 保險法規題庫 App
+# 保險法規題庫 v2.0
 
-這是 GitHub Pages 可直接部署版本。
+新增功能：
+- AI智慧複習：依照高頻、錯題、低正確率、尚未作答排序
+- 今日30題：自動產生優先複習題
+- 7日讀書計畫：依主題弱點與高頻程度安排
+- 法條/出處篩選與法條表現統計
+- 同觀念刷題：從任一題快速切換同 group 題目
+- 相關歷屆題快速跳轉
+- 鍵盤快捷鍵：A/B/C/D 選項、Enter 確認、S 顯示答案、左右鍵換題
 
-## 上傳方式
-1. 解壓縮 `insurance_law_quiz_app_v1_github_pages.zip`
-2. 到 GitHub repository 點 `uploading an existing file`
-3. 把本資料夾內所有檔案拖上去：`index.html`, `app.js`, `data.js`, `manifest.json`, `service-worker.js`, `icon-192.png`, `icon-512.png`
-4. 按 `Commit changes`
-5. 到 Settings > Pages，Source 選 `Deploy from a branch`，Branch 選 `main`，Folder 選 `/(root)`，按 Save
-
-## iPhone 使用
-Safari 打開 GitHub Pages 網址 > 分享 > 加入主畫面。
+更新 GitHub Pages：把此資料夾內所有檔案上傳覆蓋原 repository 內容，Commit changes 後等待 Pages 更新。
